@@ -37,7 +37,7 @@ ScriptClone é uma ferramenta Python para clonar álbuns ou mensagens de um grup
    - Copie o **API ID** e o **API HASH**
 
 2. **Abra o arquivo principal (`Eros_free.py`)**  
-   - Preencha seus dados nas linhas (*Para facilitar de encontrar no código, APERTE CTRL+F e Pesquise por READER_API_ID, READER_API_HASH e etc...*):
+   - Preencha seus dados nas linhas (**Para facilitar de encontrar no código, APERTE CTRL+F e Pesquise por READER_API_ID, READER_API_HASH e etc...**):
      ```python
      READER_API_ID = seu_api_id_aqui
      READER_API_HASH = "seu_api_hash_aqui"
