@@ -12,8 +12,8 @@ ScriptClone é uma ferramenta Python para clonar álbuns ou mensagens de um grup
 2. **Clone o repositório**  
    Abra o terminal ou prompt de comando e digite:
    ```bash
-   git clone https://github.com/SarfxxFx/ScriptClone.git
-   cd ScriptClone
+   git clone https://github.com/arthurxavieerr/telegramclonehot.git
+   cd telegramclonehot
    ```
 
 3. **Instale as dependências**  
